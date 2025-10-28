@@ -1,38 +1,38 @@
 export default {
   top: [
     {
-      text: 'About',
+      text: 'О нас',
       url: '/about/'
     },
     {
-      text: 'Docs',
-      url: '/get-started/'
+      text: 'Скейтпарки',
+      url: '/skateparks/'
     },
     {
-      text: 'Built with',
-      url: '/built-with/'
+      text: 'События',
+      url: '/events/'
     },
     {
-      text: 'Blog',
-      url: '/blog/'
+      text: 'Сервис',
+      url: '/service/'
     }
   ],
-  bottom: [
-    {
-      text: 'Style guide',
-      url: '/styleguide/'
-    },
-    {
-      text: 'Imprint',
-      url: '/imprint/'
-    },
-    {
-      text: 'Privacy',
-      url: '/privacy/'
-    },
-    {
-      text: 'Accessibility',
-      url: '/accessibility/'
-    }
-  ]
+  // bottom: [
+  //   {
+  //     text: 'Style guide',
+  //     url: '/styleguide/'
+  //   },
+  //   {
+  //     text: 'Imprint',
+  //     url: '/imprint/'
+  //   },
+  //   {
+  //     text: 'Privacy',
+  //     url: '/privacy/'
+  //   },
+  //   {
+  //     text: 'Accessibility',
+  //     url: '/accessibility/'
+  //   }
+  // ]
 };

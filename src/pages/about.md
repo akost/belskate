@@ -1,23 +1,36 @@
 ---
-title: About
+title: О нас
 permalink: /about/index.html
 description: 'Eleventy Excellent is inspired bythe companion website of Andy Bell’s talk "Be the browser’s mentor, not its micromanager".'
 layout: page
 ---
 
-This starter uses modern CSS, fluid type & space, flexible Layouts and Progressive Enhancement, wrapped in a basic template.
+БелСкейтРесурс - команда профессионалов, осуществляющих деятельность в сфере скейтбординга с 2008 года и имеющая опыт реализации знаковых проектов в Республике Беларусь, среди которых первый крытый скейтпарк, крупнейшие международные соревнования Extreme Games Belarus, скейтпарки открытого типа с оборудованием олимпийских дисциплин «street», «park», медиа-проект «Скейтбординг на крыше БЕЛАЗа» и другие.
 
-It is built around the CSS boilerplate by Andy Bell and inspired by Andy's talk **'Be the browser’s mentor, not its micromanager'**.
+## Наша миссия: 
 
-If you want to know exactly how it all works, [read this article on piccalil.li](https://piccalil.li/blog/a-css-project-boilerplate/).
+Способствовать формированию качественной инфраструктуры и материально-технической базы скейтбординга, как вида спорта, физической активности и уличной культуры в Республике Беларусь. 
 
-The aim is to spread the idea and use of this _excellent_ workflow. To work with it efficiently you should be familiar with [cube.fyi](https://cube.fyi/), [utopia.fyi](https://utopia.fyi/) and [every-layout.dev](https://every-layout.dev/).
+### БелСкейтРесурс - это компетенции в следующих направлениях:
 
-- buildexcellentwebsit.es
-- Remix the original: https://glitch.com/edit/#!/remix/build-excellent-websites
-- Study the [original CSS boilerplate](https://github.com/Set-Creative-Studio/cube-boilerplate/tree/main)
+* Скейтпарки – комплексное сопровождение проекта «скейтпарк»: от идеи до сдачи объекта открытого, или закрытого типа в Республике Беларусь.
+* События – организация и проведение событийных мероприятий в направлении «Скейтбординг» в Республике Беларусь.
+* Сервис – постгарантийное и текущее сервисное обслуживание объектов в Республике Беларусь.
 
-## Watch the talk
+Мы работаем с государственными и коммерческими организациями, общественными объединениями и частными клиентами, предлагая профессиональные решения по реализации проектов любого масштаба.
 
-<div><custom-youtube @slug="JqnMI1AXl6w" @label="Andy Bell – Be the browser’s mentor, not its micromanager"> </custom-youtube></div>
+Мы сотрудничаем с ведущими производителями, предлагая только сертифицированное оборудование, соответствующее государственным стандартам качества и безопасности.
+
+### Преимущества работы с нами:
+
+* Экспертность -- опыт и компетенции позволяют предлагать максимально эффективные решения по реализации проектов любой сложности.
+* Профессионализм – эффективно и надежно выполняем работу на всех стадиях реализации проекта.
+* Вариативность –  предлагаем различные варианты решений, для выбора оптимального.
+* Креативность – формируем предложения любого уровня сложности под запрос Заказчика.
+* Ответственность – соблюдаем все сроки и условия договорных отношений.
+
+
+БелСкейтРесурс – ваш надежный Партнер в развитии инфраструктуры скейтбординга в Республике Беларусь!
+
+Наши контакты: belskateres@mail.ru
 
