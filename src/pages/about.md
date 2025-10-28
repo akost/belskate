@@ -1,7 +1,7 @@
 ---
 title: О нас
 permalink: /about/index.html
-description: 'Eleventy Excellent is inspired bythe companion website of Andy Bell’s talk "Be the browser’s mentor, not its micromanager".'
+description: 'БелСкейтРесурс - команда профессионалов, осуществляющих деятельность в сфере скейтбординга с 2008 года и имеющая опыт реализации знаковых проектов в Республике Беларусь.'
 layout: page
 ---
 
