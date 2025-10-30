@@ -17,3 +17,11 @@
 .site-footer .creator a:hover svg {
   color: var(--color-primary);
 }
+
+.site-footer .five-years {
+  text-align:center;
+}
+
+.site-footer .five-years picture {
+  margin:auto;
+}
