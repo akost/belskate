@@ -1,0 +1,14 @@
+<custom-hero class="wrapper">
+  <picture>
+    {%- if headerimage -%}
+      <img src="{{ headerimage }}" alt="">
+    {%- else -%}
+      <img src="/assets/images/belskate/main.jpg" alt="">
+    {%- endif -%}
+    
+  </picture>
+  <div class="content | flow">
+    <h1>{{ title }}</h1>
+    <p>{{ subtitle }}</p>
+  </div>
+</custom-hero>
