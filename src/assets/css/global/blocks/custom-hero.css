@@ -34,7 +34,7 @@ custom-hero .content {
   align-self: end;
   background-color: var(--color-bg);
   color: var(--color-text);
-  inline-size: min(40rem, calc(100% - var(--gap)));
+  inline-size: min(35rem, calc(100% - var(--gap)));
   margin-block-end: var(--space-xl);
   padding-block: var(--space-s);
   padding-inline: var(--gap);
