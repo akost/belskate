@@ -1,24 +1,22 @@
 export const url = process.env.URL || 'http://localhost:8080';
 // Extract domain from `url`
 export const domain = new URL(url).hostname;
-export const siteName = 'БелСкейтРесурс';
-export const siteDescription = 'БелСкейтРесурс';
+export const siteName = 'БелСкейтРесурс: скейтпарки, события, сервис в Беларуси';
+export const siteDescription = 'БелСкейтРесурс — комплекс решений, направленных на эффективную реализацию проектов в сегменте «Скейтбординг» в Республике Беларусь';
 export const siteType = 'Person'; // schema
 export const locale = 'be_BY';
 export const lang = 'ru';
 export const skipContent = 'Skip to content';
 export const author = {
-  name: 'Lene Saile', // i.e. Lene Saile - page / blog author's name. Must be set.
+  name: 'БелСкейтРесурс', // i.e. Lene Saile - page / blog author's name. Must be set.
   avatar: '/icon-512x512.png', // path to the author's avatar. In this case just using a favicon.
-  email: 'hola@lenesaile.com', // i.e. hola@lenesaile.com - email of the author
-  website: 'https://www.lenesaile.com', // i.e. https.://www.lenesaile.com - the personal site of the author
-  fediverse: '@lene@front-end.social' // used for highlighting journalism on the fediverse. Can be Mastodon, Flipboard, Threads, WordPress (with the ActivityPub plugin installed), PeerTube, Pixelfed, etc. https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/
+  email: 'belskateres@mail.ru', // i.e. hola@lenesaile.com - email of the author
+  website: 'https://www.belskate.by' // i.e. https.://www.lenesaile.com - the personal site of the author
 };
 export const creator = {
-  name: 'Lene Saile', // i.e. Lene Saile - creator's (developer) name.
-  email: 'hola@lenesaile.com',
-  website: 'https://www.lenesaile.com',
-  social: 'https://front-end.social/@lene'
+  name: 'БелСкейтРесурс', // i.e. Lene Saile - creator's (developer) name.
+  email: 'belskateres@mail.ru',
+  website: 'https://www.belskate.by'
 };
 export const pathToSvgLogo = 'src/assets/svg/misc/logo.svg'; // used for favicon generation
 export const themeColor = '#0767f7'; // used in manifest, for example primary color value
@@ -26,7 +24,7 @@ export const themeLight = '#f8f8f8'; // used for meta tag theme-color, if light 
 export const themeDark = '#2e2e2e'; // used for meta tag theme-color, if dark colors are prefered. best use value set for dark bg
 export const opengraph_default = '/assets/images/template/opengraph-default.jpg'; // fallback/default meta image
 export const opengraph_default_alt =
-  "Visible content: An Eleventy starter with CUBE CSS, Cube CSS, Every Layout, Design Tokens and Tailwind for uitility classes. A workflow for building modern and resilient websites, introduced by Andy Bell's project buildexcellentwebsit.es"; // alt text for default meta image"
+  "БелСкейтРесурс — комплекс решений, направленных на эффективную реализацию проектов в сегменте «Скейтбординг» в Республике Беларусь"; // alt text for default meta image"
 export const blog = {
   // RSS feed
   name: 'My Web Development Blog',
