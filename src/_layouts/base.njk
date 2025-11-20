@@ -48,8 +48,13 @@
     {% endset %}
     {% include "partials/header.njk" %}
 
-    <main id="main" class="flow">{{ content | safe }}</main>
+    <main id="main" class="flow">
+      {{ content | safe }}
+    </main>
 
+    {% if page.url != "/" %}
+      {% include "partials/contacts.njk" %}
+    {% endif %}
     {% include "partials/footer.njk" %}
     {%- if meta.easteregg -%}
       <script type="module" src="/assets/scripts/components/custom-easteregg.js"></script>
