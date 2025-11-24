@@ -1,4 +1,4 @@
-export const url = process.env.URL || 'http://localhost:8080';
+export const url = process.env.URL || 'https://www.belskate.by';
 // Extract domain from `url`
 export const domain = new URL(url).hostname;
 export const siteName = 'БелСкейтРесурс: скейтпарки, события, сервис в Беларуси';
@@ -27,19 +27,14 @@ export const opengraph_default_alt =
   "БелСкейтРесурс — комплекс решений, направленных на эффективную реализацию проектов в сегменте «Скейтбординг» в Республике Беларусь"; // alt text for default meta image"
 export const blog = {
   // RSS feed
-  name: 'My Web Development Blog',
-  description: 'Tell the word what you are writing about in your blog. It will show up on feed readers.',
+  name: 'Скейтпарки и скейтбординг в Беларуси',
+  description: 'БелСкейтРесурс — комплекс решений, направленных на эффективную реализацию проектов в сегменте «Скейтбординг» в Республике Беларусь',
   // feed links are looped over in the head. You may add more to the array.
   feedLinks: [
     {
       title: 'Atom Feed',
       url: '/feed.xml',
       type: 'application/atom+xml'
-    },
-    {
-      title: 'JSON Feed',
-      url: '/feed.json',
-      type: 'application/json'
     }
   ],
   // Tags
@@ -96,7 +91,7 @@ export const tests = {
 };
 export const viewRepo = {
   // this is for the view/edit on github link. The value in the package.json will be pulled in.
-  allow: true,
+  allow: false,
   infoText: 'View this page on GitHub'
 };
 export const easteregg = true;
