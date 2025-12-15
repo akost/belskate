@@ -14,3 +14,5 @@ src/_includes/scripts
 
 # secret data
 .env
+.vercel
+.env*.local
